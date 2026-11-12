@@ -1,19 +1,19 @@
 {
-  "version": "2.0.12",
-  "published_at": "2026-11-12T22:48:53.330Z",
-  "notes": "• Guia sem \"faça\" e \"não faça\" sobre o mesmo mar",
+  "version": "2.0.13",
+  "published_at": "2026-11-12T23:00:22.892Z",
+  "notes": "• Guia coerente em tudo, não só nas expedições",
   "important": false,
-  "sig": "LqekTNWg1lSj6RtRLl29dOoeeRyGxBvA5dH7QXXGN+7tHqT7UY7yoHezoKtW4ogIWf0DDp5gUJJmHd7fyFLd+A==",
+  "sig": "Bw5WSntpWa1sZ6BRM+MrAbtYtTiAVZJrGkxpkSi3j5Sknv7QeaYnNfFv2MPnjwQkgsa9p5evj4gAqKB1NEc8Ag==",
   "files": {
     "chrome": {
-      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-v2.0.12.zip",
-      "sha256": "3a38ba0bd4fda3b80a9367bc49d984fd5f298fa90e258b53751fb467302c5d06",
-      "sig": "9mBxYK1ZUeeVWldyqiAl+obnTdPmD/jE3DyJmyllRkXnyexKtKbrGQww/TUf3lC1xf61MqTQy2uwauneRseWxg=="
+      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-v2.0.13.zip",
+      "sha256": "496d62d11038cdd941ec5a42fd5125fbe997705bd1cbaaaf29bf13f96dba5a65",
+      "sig": "aR1Zi5/I+q+LUBltMYKy5AIntnD2Ur4lL5NlksFK2OeZ+JNUIlB8jqRbnam4rdp1j4zs6lQHIpE+2OvoYORd1w=="
     },
     "firefox": {
-      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-firefox-v2.0.12.zip",
-      "sha256": "350fb29656b851de7c085488ab1cb923dbfb2120c6c5abfb9a6442e229c4b005",
-      "sig": "vfbhfS9y4y8ghbDHLoR1q/ejlcIPjfmHZHFCSWdY9SdDOcEf9JEq+PIwuY8XB13rxIZWguoOVzPh/9Ob7bfkjQ=="
+      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-firefox-v2.0.13.zip",
+      "sha256": "73146978d763e7104312c3326fa642dd91c8b867948ab9be69afe706afab2b8c",
+      "sig": "eDY+q+uoyp8Xx1V310uY2RqOPJl0+YjHlsAA2luyfi55ynytWiRdThQFMH6Yq4QJATS+ovCEEqt/qGMheXdQ0A=="
     }
   }
 }
