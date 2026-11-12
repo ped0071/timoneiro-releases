@@ -1,19 +1,19 @@
 {
-  "version": "2.0.10",
-  "published_at": "2026-11-12T22:15:17.116Z",
-  "notes": "• Boas-vindas com a configuração de onde o Timoneiro aparece",
+  "version": "2.0.11",
+  "published_at": "2026-11-12T22:25:51.607Z",
+  "notes": "• Faixa de cima da barra preenchida",
   "important": false,
-  "sig": "1pwdJFu9qJeyUv01XijpYtepj1HnoA2KNzznFVQYZdEQh1fjYwDHDHbszO/XaIeOrvlBx1xZKAvtvQnm8w4fdw==",
+  "sig": "zLUT6A7zFm0sK4wG2yFsQo5HI16ju+jFjH0QkD7RM2u1cBr8WbRPAmBmeu3VwTCOXLDNgv13URhSjSTl68AtJw==",
   "files": {
     "chrome": {
-      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-v2.0.10.zip",
-      "sha256": "22fb636fec8550ab353ae1b4667542bf0f94185d47a1c90862045afaf705713e",
-      "sig": "8/EwBs3JP2ri/AkNg5Dp90Pvx8eDjA7MHyFvQX42J9isx5GoWu6qrBAKdLdvW3Q0S6asR8kkQJ0fyyUKSG1hDA=="
+      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-v2.0.11.zip",
+      "sha256": "f82eb6e5aa88c82f26512568f153cd131bfa5126299b1a2a6d05c4a20950b486",
+      "sig": "/IGP6CzZ4FqZQLLaOhegXFBYc7aJj8wx9lQHvr6Fxzb2LKZ+oqIZqbr10ANIa1I9j6nftZxjl7GoSFGLpc9Frw=="
     },
     "firefox": {
-      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-firefox-v2.0.10.zip",
-      "sha256": "c6771d12328b954e22cd11a4f4babfb1290a5e921f1ffd3aaa6ccdf7be10ab64",
-      "sig": "H/C3Cy9K+LSduvRQfvPEkDxfgnPqy71lAOAGiihp+byv5o0dm/85FaqiCP9iWrEkJrDP/BpdSSLBh8Y9JZfA0g=="
+      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-firefox-v2.0.11.zip",
+      "sha256": "a8355101adb181032cea64178bfbad988b20d6ec7d4fab85d20ea5ba46140b72",
+      "sig": "Cssukfa9V9PGjsxU1v47SsEITbVh1LNdLSYsms8YxXwbM2GgaLgK7TYBRjlY8EddJnLo0g6iVE/rgqUGJUKECA=="
     }
   }
 }
