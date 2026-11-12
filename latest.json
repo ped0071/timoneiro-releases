@@ -1,19 +1,19 @@
 {
-  "version": "2.0.6",
-  "published_at": "2026-11-12T15:57:04.410Z",
-  "notes": "• Arremesso automático sem engasgar\n• Últimos cliques no 🎣",
+  "version": "2.0.7",
+  "published_at": "2026-11-12T18:44:11.033Z",
+  "notes": "• Aviso na própria Twitch",
   "important": false,
-  "sig": "Nf+cSVKQyZWHm9PL/WKcHAPBfG1mo1FaAx67smoE7BALGuV2uDmOqalnmVI6dJW73F96pAMmBcjx9zJIk91sFg==",
+  "sig": "CG4iwGSQRKAWBu3CsjtRuzbjflD4AjkOUIY5hVcyWTHwRe64fy7CSn4f2etEmWSHh08XP+WKCpVXgy9ZKII4TA==",
   "files": {
     "chrome": {
-      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-v2.0.6.zip",
-      "sha256": "c28b3cbc175faaeaefce7a35cfae813b6b9a3c2cfb1599dbdffe40d4a1369b14",
-      "sig": "ug/txgrUqXPfKWgqB3fZ0LNSlpZNOVtNLMKvxylaQma42YuPHDkI2U3aDtHBexz13z007REy9gcZVuv4UcvjCg=="
+      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-v2.0.7.zip",
+      "sha256": "2bed886e2dcc94006488e6b994be81763345e0004adc3817b8f1a3d55a11c679",
+      "sig": "BwOx7LB9AhuqSS9xbRgCPUpudhCEuT+aG4ZyV0bvhHMJzoNfl7i81d8EkabzBg/HChUZpzDIrgU+nLew61syfQ=="
     },
     "firefox": {
-      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-firefox-v2.0.6.zip",
-      "sha256": "f7d2e13cf61bd38d64a6472f0fc80406d3d44ad1b8043f44ba878f92fae6cc11",
-      "sig": "02zJyHbKWRsGiGZSl7JW18Kaoc+o2Lu8jThtNdM8/W3RnVDj1dohyNI52d4Xbca6OvU7WWinBn/hhyi6GRoNjA=="
+      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-firefox-v2.0.7.zip",
+      "sha256": "d5d9ee2d36acad72479d829ecb1f3db96b0a8e708efabf8b809b1d45b62f56be",
+      "sig": "MEl/IBsOGEx31PxBMkt6WCx9or3o6FZwQ1QaXIczMQIgheiVdUNgg+k2fVNxHd4PeFI35sNBYHpe+nZ88Swjfw=="
     }
   }
 }
