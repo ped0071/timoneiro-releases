@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Privacidade do Timoneiro</title><link rel="stylesheet" href="estilo.css"><link rel="icon" href="timoneiro-logo.png"></head>
+<body><main>
+<header class="topo"><a href="./"><img src="timoneiro-logo.png" alt="" width="40" height="40"></a><span>Timoneiro</span></header>
+<h1>Privacidade — Timoneiro</h1>
+<p>Atualizado em 12/11/2026 (versão 2.0).</p>
+<ul>
+<li><strong>Onde roda:</strong> só no seu navegador, nas páginas <code>https://www.twitch.tv/<em></code> e <code>https://twish.com.br/</em></code> e no fundo da extensão. O fundo lê o Twish a cada 30 s, só com GET.</li>
+<li><strong>O que lê no Twish:</strong> as respostas das APIs do site (conta, inventário, loja, títulos, eventos, manual, torneio, expedições, Mercado e perfis públicos de jogadores), sempre com GET e com a sua sessão do site. Também lê a lista pública de barcos (<code>/api/channels</code>), sem sessão, para saber em quais lives aparecer.</li>
+<li><strong>O que lê na Twitch:</strong> o endereço da live, para saber o canal; os nomes visíveis no chat, para o seletor de duelo; e o campo de mensagem, para escrever o comando.</li>
+<li><strong>Tempo real:</strong> na aba do Twish, a extensão abre a mesma conexão de avisos que o site usa (WebSocket em <code>twish.com.br</code>), com a sua sessão, só para ouvir. Nada é enviado por essa conexão.</li>
+<li><strong>Versão nova:</strong> uma vez por dia, o fundo baixa o arquivo público <code>https://ped0071.github.io/timoneiro-releases/latest.json</code>, sem cookies e sem nenhum dado seu, para avisar se saiu versão nova. A assinatura digital desse arquivo é conferida antes de qualquer aviso.</li>
+<li><strong>O que guarda:</strong> as respostas e as suas preferências ficam no armazenamento da extensão, no seu computador. A página da Twitch não tem acesso a ele. Nada vai para o desenvolvedor nem para terceiros, exceto o que você ligar no Discord (abaixo).</li>
+<li><strong>Sync do navegador:</strong> se o sync do navegador estiver ligado, alguns ajustes vão para a sua conta do navegador, para valer nos seus outros computadores: notificações, barco fixado, canais escondidos e &quot;só nestes canais&quot;, nick e alertas do Mercado. O webhook do Discord e os dados da conta do Twish não vão.</li>
+<li><strong>O que envia no chat:</strong> nada por conta própria. Os comandos são escritos no chat e você aperta Enter. A única exceção é o <em>Arremesso automático</em> (opcional, desligado por padrão): ligado, um clique no 🎣 da barra envia um <code>$pescar</code>.</li>
+<li><strong>Discord (opcional):</strong> só depois que você colar um webhook em Opções e permitir o acesso ao Discord, quando o navegador pedir. Os avisos que você escolher (pesca, eventos, torneio, frota, salas, Mercado) vão para esse webhook, com o título e o texto da notificação. A URL do webhook fica só no armazenamento da extensão e não vai no backup nem no sync.</li>
+<li><strong>Backup e exportações:</strong> os botões de exportar baixam um arquivo JSON para o seu computador, sem senha, tokens nem o webhook do Discord.</li>
+<li><strong>Senhas e cookies:</strong> a extensão não pede senha e não lê cookies. O navegador envia a sua sessão do Twish normalmente nas leituras.</li>
+<li><strong>Remover:</strong> desinstalar a extensão apaga o armazenamento dela.</li>
+</ul>
+<footer><a href="./">Baixar</a> · <a href="atualizar.html">Atualizar</a> · <a href="privacidade.html">Privacidade</a></footer>
+</main></body></html>

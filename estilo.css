@@ -1,0 +1,78 @@
+/* Timoneiro — páginas da extensão (popup, boas-vindas, opções).
+   Tema "skills": abismo, casco, ametista, lilás, ciano. Uma peça marcante por página: o leme. */
+:root {
+  --abismo: #090b17;
+  --casco: #121530;
+  --casco-2: #1a1e42;
+  --ametista: #7c3cff;
+  --lilas: #b35cff;
+  --ciano: #12dff3;
+  --espuma: #e8e9f7;
+  --nevoa: #a3a6cf;
+  --ambar: #ffb547;
+  --coral: #ff6b86;
+  --raio: 14px;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; background: var(--abismo); color: var(--espuma); }
+body {
+  font: 15px/1.5 "Segoe UI Variable Text", "Segoe UI", system-ui, -apple-system, "Helvetica Neue", sans-serif;
+  font-variant-numeric: tabular-nums;
+}
+h1, h2, h3 { text-wrap: balance; font-family: "Segoe UI Variable Display", "Segoe UI", system-ui, sans-serif; margin: 0; letter-spacing: -0.01em; }
+a { color: var(--ciano); }
+p { margin: 0; }
+.muted { color: var(--nevoa); }
+
+button, .btn {
+  font: inherit; font-weight: 600; cursor: pointer;
+  border: 1px solid var(--casco-2); border-radius: 10px;
+  background: var(--casco); color: var(--espuma);
+  padding: 9px 14px; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; gap: 6px;
+}
+button:hover, .btn:hover { border-color: var(--lilas); }
+.btn-primary { background: var(--ametista); border-color: var(--ametista); color: #fff; }
+.btn-primary:hover { background: #8d55ff; border-color: #8d55ff; }
+button:disabled { opacity: .55; cursor: default; }
+:focus-visible { outline: 2px solid var(--ciano); outline-offset: 2px; }
+input[type="text"], input[type="url"] {
+  font: inherit; color: var(--espuma); background: var(--abismo);
+  border: 1px solid var(--casco-2); border-radius: 10px; padding: 9px 12px; width: 100%;
+}
+
+/* Leme: anel de tempo até a próxima pesca. --p vai de 0 (agora) a 1 (cooldown cheio). */
+.leme {
+  --p: 0;
+  width: 112px; height: 112px; border-radius: 50%; flex: none; position: relative;
+  background:
+    radial-gradient(closest-side, var(--abismo) 78%, transparent 79%),
+    conic-gradient(var(--ciano) calc((1 - var(--p)) * 360deg), var(--casco-2) 0);
+  display: grid; place-items: center;
+}
+.leme::before { /* oito raios do leme */
+  content: ""; position: absolute; inset: -6px; border-radius: 50%;
+  background: repeating-conic-gradient(from -2deg, var(--lilas) 0 4deg, transparent 4deg 45deg);
+  -webkit-mask: radial-gradient(closest-side, transparent 92%, #000 93%);
+          mask: radial-gradient(closest-side, transparent 92%, #000 93%);
+  opacity: .8;
+}
+.leme-tempo { font-size: 26px; font-weight: 700; line-height: 1; }
+.leme[data-state="ready"] { background: radial-gradient(closest-side, var(--abismo) 78%, transparent 79%), conic-gradient(var(--ciano) 360deg, var(--ciano) 0); }
+.leme[data-state="ready"] .leme-tempo { color: var(--ciano); font-size: 20px; }
+.leme[data-state="unknown"] .leme-tempo { color: var(--nevoa); }
+
+.saude { display: flex; gap: 8px; align-items: flex-start; font-size: 13px; }
+.saude::before { content: ""; width: 9px; height: 9px; border-radius: 50%; margin-top: 5px; flex: none; background: var(--ciano); }
+.saude[data-level="warn"]::before { background: var(--ambar); }
+.saude[data-level="bad"]::before { background: var(--coral); }
+
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; animation: none !important; } }
+
+main { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; display: grid; gap: 22px; }
+.topo { display: flex; align-items: center; gap: 12px; font-size: 20px; font-weight: 600; }
+h1 { font-size: clamp(28px, 5vw, 38px); line-height: 1.15; } h2 { font-size: 20px; margin-top: 8px; }
+p, li { color: var(--nevoa); max-width: 68ch; } strong { color: var(--espuma); }
+.baixar { display: flex; gap: 10px; flex-wrap: wrap; } pre { background: var(--casco); padding: 12px; border-radius: 10px; overflow-x: auto; }
+.notas { background: var(--casco); border-radius: var(--raio); padding: 14px 16px; white-space: pre-wrap; color: var(--espuma); }
+footer { color: var(--nevoa); font-size: 14px; border-top: 1px solid var(--casco-2); padding-top: 14px; }
