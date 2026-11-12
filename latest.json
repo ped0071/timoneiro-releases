@@ -1,19 +1,19 @@
 {
-  "version": "2.0.4",
-  "published_at": "2026-11-12T15:24:34.104Z",
-  "notes": "• Guia em cartões\n• Evento na barra\n• Evento agora, no topo do Guia",
+  "version": "2.0.5",
+  "published_at": "2026-11-12T15:33:40.489Z",
+  "notes": "• Recarrega mais rápido depois de atualizar",
   "important": false,
-  "sig": "9sjJvThbUobSm95FMuoY42UgUi2QubApOv84cs9VUwnSP9nlyEwgla5g27XMysNRBe+/FfnndpInJWvCS2XeDw==",
+  "sig": "xg6YMgr6I0zKqYE5N3SbjByOxQUSz9azlJC1I3EHca7zJ0hCM+MJ4r+Snig0mqr/8TNidLaoG04CtxHR5yCKMg==",
   "files": {
     "chrome": {
-      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-v2.0.4.zip",
-      "sha256": "b7f80e38cc654a86ae6e2278711be3700aae4eb4c976b92ab627939a2c728e7e",
-      "sig": "ezZsc8XUk4PGPkjSDvsvie8MugdopAx6VLelZ+1bEuzYS/dCYYzNfZQbehRBD+WqWfIr/j40LUKmT5pDVdkzsw=="
+      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-v2.0.5.zip",
+      "sha256": "6c8d5deba9ceed7bc4783eac96e445989d741f4881e701a2c15ec3ef7f4095a8",
+      "sig": "ZB7P/MrD4+oAX+p+3axjIHBiWGGGHzlXE4zZNxWXHHGnBqQsyVSL57V+k4CBbdaDSRxuEQMd7v/GBig0siQMzQ=="
     },
     "firefox": {
-      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-firefox-v2.0.4.zip",
-      "sha256": "f5ba2cb870a2a164c3e93d92ae4123446c3c3e43175e031e6a85a7d26e753605",
-      "sig": "k5DjwkKjRuCb3Fs/llfAbWiAp26Jmu3WgXGEeSgkCU2Cmpo2Oxlf/jERr4HONisfGPStf3MUTsa0cdsPrJytfA=="
+      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-firefox-v2.0.5.zip",
+      "sha256": "2b1c2e429ae24f5409ef0cf48286923f00ec20ba3977482c1947847d9c0dbf49",
+      "sig": "oHd3RoR1Lzn3wS9z2SOyMMDQTd/QU9nVHBKnPUmCSwUB0wj8xoEHK2pKZ+JXNKMg9+wbMlLQ+IhPZFEIn8L3CA=="
     }
   }
 }
