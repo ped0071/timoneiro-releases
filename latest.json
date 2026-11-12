@@ -1,19 +1,19 @@
 {
-  "version": "2.0.5",
-  "published_at": "2026-11-12T15:33:40.489Z",
-  "notes": "• Recarrega mais rápido depois de atualizar",
+  "version": "2.0.6",
+  "published_at": "2026-11-12T15:57:04.410Z",
+  "notes": "• Arremesso automático sem engasgar\n• Últimos cliques no 🎣",
   "important": false,
-  "sig": "xg6YMgr6I0zKqYE5N3SbjByOxQUSz9azlJC1I3EHca7zJ0hCM+MJ4r+Snig0mqr/8TNidLaoG04CtxHR5yCKMg==",
+  "sig": "Nf+cSVKQyZWHm9PL/WKcHAPBfG1mo1FaAx67smoE7BALGuV2uDmOqalnmVI6dJW73F96pAMmBcjx9zJIk91sFg==",
   "files": {
     "chrome": {
-      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-v2.0.5.zip",
-      "sha256": "6c8d5deba9ceed7bc4783eac96e445989d741f4881e701a2c15ec3ef7f4095a8",
-      "sig": "ZB7P/MrD4+oAX+p+3axjIHBiWGGGHzlXE4zZNxWXHHGnBqQsyVSL57V+k4CBbdaDSRxuEQMd7v/GBig0siQMzQ=="
+      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-v2.0.6.zip",
+      "sha256": "c28b3cbc175faaeaefce7a35cfae813b6b9a3c2cfb1599dbdffe40d4a1369b14",
+      "sig": "ug/txgrUqXPfKWgqB3fZ0LNSlpZNOVtNLMKvxylaQma42YuPHDkI2U3aDtHBexz13z007REy9gcZVuv4UcvjCg=="
     },
     "firefox": {
-      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-firefox-v2.0.5.zip",
-      "sha256": "2b1c2e429ae24f5409ef0cf48286923f00ec20ba3977482c1947847d9c0dbf49",
-      "sig": "oHd3RoR1Lzn3wS9z2SOyMMDQTd/QU9nVHBKnPUmCSwUB0wj8xoEHK2pKZ+JXNKMg9+wbMlLQ+IhPZFEIn8L3CA=="
+      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-firefox-v2.0.6.zip",
+      "sha256": "f7d2e13cf61bd38d64a6472f0fc80406d3d44ad1b8043f44ba878f92fae6cc11",
+      "sig": "02zJyHbKWRsGiGZSl7JW18Kaoc+o2Lu8jThtNdM8/W3RnVDj1dohyNI52d4Xbca6OvU7WWinBn/hhyi6GRoNjA=="
     }
   }
 }
