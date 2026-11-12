@@ -1,19 +1,19 @@
 {
-  "version": "2.0.11",
-  "published_at": "2026-11-12T22:25:51.607Z",
-  "notes": "• Faixa de cima da barra preenchida",
+  "version": "2.0.12",
+  "published_at": "2026-11-12T22:48:53.330Z",
+  "notes": "• Guia sem \"faça\" e \"não faça\" sobre o mesmo mar",
   "important": false,
-  "sig": "zLUT6A7zFm0sK4wG2yFsQo5HI16ju+jFjH0QkD7RM2u1cBr8WbRPAmBmeu3VwTCOXLDNgv13URhSjSTl68AtJw==",
+  "sig": "LqekTNWg1lSj6RtRLl29dOoeeRyGxBvA5dH7QXXGN+7tHqT7UY7yoHezoKtW4ogIWf0DDp5gUJJmHd7fyFLd+A==",
   "files": {
     "chrome": {
-      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-v2.0.11.zip",
-      "sha256": "f82eb6e5aa88c82f26512568f153cd131bfa5126299b1a2a6d05c4a20950b486",
-      "sig": "/IGP6CzZ4FqZQLLaOhegXFBYc7aJj8wx9lQHvr6Fxzb2LKZ+oqIZqbr10ANIa1I9j6nftZxjl7GoSFGLpc9Frw=="
+      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-v2.0.12.zip",
+      "sha256": "3a38ba0bd4fda3b80a9367bc49d984fd5f298fa90e258b53751fb467302c5d06",
+      "sig": "9mBxYK1ZUeeVWldyqiAl+obnTdPmD/jE3DyJmyllRkXnyexKtKbrGQww/TUf3lC1xf61MqTQy2uwauneRseWxg=="
     },
     "firefox": {
-      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-firefox-v2.0.11.zip",
-      "sha256": "a8355101adb181032cea64178bfbad988b20d6ec7d4fab85d20ea5ba46140b72",
-      "sig": "Cssukfa9V9PGjsxU1v47SsEITbVh1LNdLSYsms8YxXwbM2GgaLgK7TYBRjlY8EddJnLo0g6iVE/rgqUGJUKECA=="
+      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-firefox-v2.0.12.zip",
+      "sha256": "350fb29656b851de7c085488ab1cb923dbfb2120c6c5abfb9a6442e229c4b005",
+      "sig": "vfbhfS9y4y8ghbDHLoR1q/ejlcIPjfmHZHFCSWdY9SdDOcEf9JEq+PIwuY8XB13rxIZWguoOVzPh/9Ob7bfkjQ=="
     }
   }
 }
