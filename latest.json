@@ -1,19 +1,19 @@
 {
-  "version": "2.0.9",
-  "published_at": "2026-11-12T21:59:59.317Z",
-  "notes": "• Só o nome do canal em \"Mostrar só nestes canais\" e \"Fixar barco\"",
+  "version": "2.0.10",
+  "published_at": "2026-11-12T22:15:17.116Z",
+  "notes": "• Boas-vindas com a configuração de onde o Timoneiro aparece",
   "important": false,
-  "sig": "9AcQNQmu35E7oq6k5GcsY9UK5CkEikHaEzNYGl3lx9Ac0Yn1oYwGf4bhtcWehc3R/O9ShDdb1IJ9CmMA0E2DCg==",
+  "sig": "1pwdJFu9qJeyUv01XijpYtepj1HnoA2KNzznFVQYZdEQh1fjYwDHDHbszO/XaIeOrvlBx1xZKAvtvQnm8w4fdw==",
   "files": {
     "chrome": {
-      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-v2.0.9.zip",
-      "sha256": "ae31cf7d3ca69012d8527053ac444f2a4a420a5d4a0d695baf7d8e55bfe48670",
-      "sig": "vwtxEAKEHVFEZPNHK/L73UGmV1FNprgr0Qapd2mOXlEW9mqe44fUlqtYqqA3l0ahTBh/CEeAAgrPZp3BwFlG7Q=="
+      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-v2.0.10.zip",
+      "sha256": "22fb636fec8550ab353ae1b4667542bf0f94185d47a1c90862045afaf705713e",
+      "sig": "8/EwBs3JP2ri/AkNg5Dp90Pvx8eDjA7MHyFvQX42J9isx5GoWu6qrBAKdLdvW3Q0S6asR8kkQJ0fyyUKSG1hDA=="
     },
     "firefox": {
-      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-firefox-v2.0.9.zip",
-      "sha256": "e145f28214ba1294f77934adb6ffa3dd0622cbe24261e996217be348a53bec07",
-      "sig": "zyS6vjPSikEMlBTyAx4s7QCkeUgsrRX7L24diyAM6EqgSNYA4isOCuMy96OcTc7wOo7rfqTlO0XP6m5zIWrZSQ=="
+      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-firefox-v2.0.10.zip",
+      "sha256": "c6771d12328b954e22cd11a4f4babfb1290a5e921f1ffd3aaa6ccdf7be10ab64",
+      "sig": "H/C3Cy9K+LSduvRQfvPEkDxfgnPqy71lAOAGiihp+byv5o0dm/85FaqiCP9iWrEkJrDP/BpdSSLBh8Y9JZfA0g=="
     }
   }
 }
