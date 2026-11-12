@@ -1,19 +1,19 @@
 {
-  "version": "2.0.2",
-  "published_at": "2026-11-12T14:20:36.296Z",
-  "notes": "• Site e página de atualização mais simples",
+  "version": "2.0.3",
+  "published_at": "2026-11-12T14:53:24.023Z",
+  "notes": "• Atualizar sem erros nem recarregar a página\n• Aviso de versão nova mais rápido depois de uma falha",
   "important": false,
-  "sig": "gY3jeXOlQPcZz0cxz3G9+OgI3t8Oc1Kbuc2xFsZC6Dhj2H0/U/eJJ9YE5xNtPAIknupK3Wtk6oNzoubbs5PBKA==",
+  "sig": "iHfr//BLHzxU9A9W3OlM6TSkzUPRq/OvKo52prrm3ZUBqOFw3NaHVJqJlRUwgawWUiNcO6UeP0moHmp9Seg/XQ==",
   "files": {
     "chrome": {
-      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-v2.0.2.zip",
-      "sha256": "14e3c104e51512e8d19cc635d1d96e5e26e2e9b20368faff64a565b5451aed4e",
-      "sig": "XbO6yhe5zLchj+y6m/5iUrX9bPN01/R9A2riM+2w48nd1zE7xYPeljjEK0e/mjiJ9B9zm68eQs39cJBV0Gq+ig=="
+      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-v2.0.3.zip",
+      "sha256": "80847e055f68b6ecc3812935534cc91ea55b4f9e81f529f56e69678fa2d4c919",
+      "sig": "HfouKbNIzqgBZYeVTafCBNJtmRS87e0mfIe17KpjJGV2lDUGOVR/W9SxyR+MT21mtyBS7s8J3Q3FkOfVZnUIXg=="
     },
     "firefox": {
-      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-firefox-v2.0.2.zip",
-      "sha256": "ec04b9dea8d8fa327886d7ae52ac9b09d0560b7556043b078a26804bc917d16b",
-      "sig": "Q5nPTyJUBo3gvLQEBQ6ocLttdXpqDBvpaZrfelHiu5xc5Gnn23SK58ed74zwlz6bI/WJJ0isGsQ8VvVHJEhyHQ=="
+      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-firefox-v2.0.3.zip",
+      "sha256": "a7ec5b285b62339ecf6ff91f0b96772e9bced364a90657d92d39b694369844c4",
+      "sig": "6rQmFvvCGBwDmyOogHmLsmGz2RG9ZLnu2Qc57YLmsoIOxqxWwaLSqxuHso8u1J4GQQ2KXGS2CKFe6iXgnpgVlQ=="
     }
   }
 }
