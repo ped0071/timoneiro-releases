@@ -1,19 +1,19 @@
 {
-  "version": "2.0.15",
-  "published_at": "2026-11-13T15:53:16.912Z",
-  "notes": "• Caldeirada pronta não pede mais para cozinhar\n• Nunca manda mais peixe do que falta",
+  "version": "2.0.16",
+  "published_at": "2026-11-13T23:27:20.617Z",
+  "notes": "• Som que às vezes não tocava\n• Aba que dormiu",
   "important": false,
-  "sig": "R9KPalFJ/4jCRzCRbc4HGURXUjKfJft+LD1JvQlBdGmPMMCOZS4c/uuzhd23hCM9veEmvDyAQ7oH9U8Dr3JUBQ==",
+  "sig": "Ob5FCqPJgZ98QHJKo8MLQoNj57xAuO5cSEhY3YUjXi3dDPuLmsNzPOKS/tJLUyXU534Vl7ybHHuNxcopkwJPJg==",
   "files": {
     "chrome": {
-      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-v2.0.15.zip",
-      "sha256": "205895747f53202826e7d28b6f3cff6352e02a28a3feab40ce529ad5bf92a594",
-      "sig": "aPmO4w09ZWtqXBPERVV5VHKos7/fTtc9WZpv7bc2z3Wnd0u34fq2E1Ap9dkYyqa5NBg/DWiXkrexSUfQIV0Smg=="
+      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-v2.0.16.zip",
+      "sha256": "ff9d8e3e1c0586bf1d8ef7b80dcbe8f8731a781752a281b98db7d79df77ec2ba",
+      "sig": "YY1f6qOS9eVdXBMxAiVv4P6Xhxbtcf5h+Zr8gawZxRMsya4uic/KH1V/EY+uvGwPWjn661VKWcVtpQXZSZbmOA=="
     },
     "firefox": {
-      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-firefox-v2.0.15.zip",
-      "sha256": "01b59d8647bad44b2012f66b98239b1ffa1932237733e0f9e92b7290f12f30ae",
-      "sig": "vf+o4vwe7qSZZr9+yoFDWi/OrxLpSiTnJrW9KnkzvpDTwVe49Nifm5tzXVCB7Xvjb/4Y54TQ09E49eALOlPUUA=="
+      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-firefox-v2.0.16.zip",
+      "sha256": "715d7c24f2695988915271420bbd4eb98c3b040db5067bcb6c13aff425fd0d64",
+      "sig": "isiYE3/0uO4vMli/BmzbNqtb3jy+f9iALdRX6MgDgsHrPLVC9FILf31n2JpHjZNFonUQAf7KrqK5N0zrmlHoeg=="
     }
   }
 }
