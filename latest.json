@@ -1,19 +1,19 @@
 {
-  "version": "2.0.13",
-  "published_at": "2026-11-12T23:00:22.892Z",
-  "notes": "• Guia coerente em tudo, não só nas expedições",
+  "version": "2.0.14",
+  "published_at": "2026-11-13T02:07:55.562Z",
+  "notes": "• Aviso na Twitch mesmo quando o sistema esconde a notificação (Opera no Windows)\n• Torneio, Frota, sala e Mercado também avisam na página",
   "important": false,
-  "sig": "Bw5WSntpWa1sZ6BRM+MrAbtYtTiAVZJrGkxpkSi3j5Sknv7QeaYnNfFv2MPnjwQkgsa9p5evj4gAqKB1NEc8Ag==",
+  "sig": "bkysFrIl+lNjn0o6LJR9Iiz8qs8F6W9J4kqrcA+fo/ameZJ18wFWEcCzNqRsuzmSy2wn9+vZtlTb1Tc4sqPvFA==",
   "files": {
     "chrome": {
-      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-v2.0.13.zip",
-      "sha256": "496d62d11038cdd941ec5a42fd5125fbe997705bd1cbaaaf29bf13f96dba5a65",
-      "sig": "aR1Zi5/I+q+LUBltMYKy5AIntnD2Ur4lL5NlksFK2OeZ+JNUIlB8jqRbnam4rdp1j4zs6lQHIpE+2OvoYORd1w=="
+      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-v2.0.14.zip",
+      "sha256": "f74c46cb0bde2e5fcdfea883afd7777127eb42ea5479435792f352ae0789b117",
+      "sig": "wgCycGkk15NDk9kJA69ymL2Pcnrny89EbbZdnoj2Abce0+a20isnsoeqag1gHFRz3vlXicGAJCbLXCwzHzlmBg=="
     },
     "firefox": {
-      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-firefox-v2.0.13.zip",
-      "sha256": "73146978d763e7104312c3326fa642dd91c8b867948ab9be69afe706afab2b8c",
-      "sig": "eDY+q+uoyp8Xx1V310uY2RqOPJl0+YjHlsAA2luyfi55ynytWiRdThQFMH6Yq4QJATS+ovCEEqt/qGMheXdQ0A=="
+      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-firefox-v2.0.14.zip",
+      "sha256": "8dcf9483d30e77399f123af630d4cf8ebb1e79b546b1d3c211aaff04cf26f384",
+      "sig": "/BixsmNY4qeP2QPwXpBZydqHRPk5pQBieq25JxQVeR4DeVa9xBUcSUGRpr0gfn337Ui7wKuu8epeSyVvJB9sew=="
     }
   }
 }
