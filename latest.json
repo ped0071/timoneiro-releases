@@ -1,19 +1,19 @@
 {
-  "version": "2.0.14",
-  "published_at": "2026-11-13T02:07:55.562Z",
-  "notes": "• Aviso na Twitch mesmo quando o sistema esconde a notificação (Opera no Windows)\n• Torneio, Frota, sala e Mercado também avisam na página",
+  "version": "2.0.15",
+  "published_at": "2026-11-13T15:53:16.912Z",
+  "notes": "• Caldeirada pronta não pede mais para cozinhar\n• Nunca manda mais peixe do que falta",
   "important": false,
-  "sig": "bkysFrIl+lNjn0o6LJR9Iiz8qs8F6W9J4kqrcA+fo/ameZJ18wFWEcCzNqRsuzmSy2wn9+vZtlTb1Tc4sqPvFA==",
+  "sig": "R9KPalFJ/4jCRzCRbc4HGURXUjKfJft+LD1JvQlBdGmPMMCOZS4c/uuzhd23hCM9veEmvDyAQ7oH9U8Dr3JUBQ==",
   "files": {
     "chrome": {
-      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-v2.0.14.zip",
-      "sha256": "f74c46cb0bde2e5fcdfea883afd7777127eb42ea5479435792f352ae0789b117",
-      "sig": "wgCycGkk15NDk9kJA69ymL2Pcnrny89EbbZdnoj2Abce0+a20isnsoeqag1gHFRz3vlXicGAJCbLXCwzHzlmBg=="
+      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-v2.0.15.zip",
+      "sha256": "205895747f53202826e7d28b6f3cff6352e02a28a3feab40ce529ad5bf92a594",
+      "sig": "aPmO4w09ZWtqXBPERVV5VHKos7/fTtc9WZpv7bc2z3Wnd0u34fq2E1Ap9dkYyqa5NBg/DWiXkrexSUfQIV0Smg=="
     },
     "firefox": {
-      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-firefox-v2.0.14.zip",
-      "sha256": "8dcf9483d30e77399f123af630d4cf8ebb1e79b546b1d3c211aaff04cf26f384",
-      "sig": "/BixsmNY4qeP2QPwXpBZydqHRPk5pQBieq25JxQVeR4DeVa9xBUcSUGRpr0gfn337Ui7wKuu8epeSyVvJB9sew=="
+      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-firefox-v2.0.15.zip",
+      "sha256": "01b59d8647bad44b2012f66b98239b1ffa1932237733e0f9e92b7290f12f30ae",
+      "sig": "vf+o4vwe7qSZZr9+yoFDWi/OrxLpSiTnJrW9KnkzvpDTwVe49Nifm5tzXVCB7Xvjb/4Y54TQ09E49eALOlPUUA=="
     }
   }
 }
