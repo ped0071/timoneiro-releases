@@ -1,19 +1,19 @@
 {
-  "version": "2.0.18",
-  "published_at": "2026-11-14T03:34:06.267Z",
-  "notes": "• Maré a cada 6 horas\n• Novidades do Twish voltaram a atualizar\n• Imposto do barco",
+  "version": "2.0.19",
+  "published_at": "2026-11-14T04:29:16.678Z",
+  "notes": "• Invasão Pirata perdida\n• Julgamento de Njord e Kraken",
   "important": false,
-  "sig": "TavXWwgiK0rYTCM4xUi1wJHu8A3pPIZHcbekNs5GVYeio3iVK9jiBJcSR+XoAOZUPnHLpEAwkeVYWhQd2p10qg==",
+  "sig": "mrAYunwRaIs/Rz2ILtBcRqJQ9UEzDtKSmxzFlHcCzAuAf47+Zem0vaxu8hvt+r7+uiSu6QApKEjsok2XRwTJwg==",
   "files": {
     "chrome": {
-      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-v2.0.18.zip",
-      "sha256": "6752e48a7926981ad8842be2ee41ead68f94d692bf5d7e1de6b7eba87b0e2a42",
-      "sig": "OsZbNtJvPLFkDRAoM74KFgASLqMIJglt2EbjWZn6DnHHluT5tNdb7MDTQGzzGNo7EFJ7rZKBlcAFjTcDSSyIZQ=="
+      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-v2.0.19.zip",
+      "sha256": "35b6192f5650e62efa14e4a7fbc0235b516b57b9543067bc08d0698430edc27c",
+      "sig": "VZZm5XmFWCDqosZTLxJmBbIxzLr3osBZq3TsbQd3131h9z0I7GV1Qlw6UzqMHQG4Q9vuL8ZqnHguwNtGRxlICw=="
     },
     "firefox": {
-      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-firefox-v2.0.18.zip",
-      "sha256": "c36a9a4a93747811f52a84c1e313db40642206530ee00aab0ecdca3f82ed0cb2",
-      "sig": "9fLsl44zYEl57ogakDvnaPnXmhgr/4eT985mqzPwn5oV+nBwWqR+el23SLE6uAUVYu/9skDtsTzcEinD8AUngA=="
+      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-firefox-v2.0.19.zip",
+      "sha256": "fc420da72cca9289b3e178a287e698d582ad3821008826fa12115ea3c53da37c",
+      "sig": "GhcuslWpDFm/tO7+qLbsmGFXmwTMeth+IOqO97MdiQA3F5UoGWVPzT5lHWFTbuRx2VD2ETdlajRTF96VH4REsA=="
     }
   }
 }
