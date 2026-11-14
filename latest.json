@@ -1,19 +1,19 @@
 {
-  "version": "2.0.17",
-  "published_at": "2026-11-14T01:30:21.701Z",
-  "notes": "• Torneio, Frota e sala avisam mesmo com a aba do Twish dormindo\n• Guia → Diagnóstico → \"Últimos sons\"",
+  "version": "2.0.18",
+  "published_at": "2026-11-14T03:34:06.267Z",
+  "notes": "• Maré a cada 6 horas\n• Novidades do Twish voltaram a atualizar\n• Imposto do barco",
   "important": false,
-  "sig": "4ywYSL1rTRI/bAlXhpPvES96XLFPvjBbJGUUMs9aR7wlatXHCajUk0DOAgKzslTb5flac+pHsmhMtq48DlFQRw==",
+  "sig": "TavXWwgiK0rYTCM4xUi1wJHu8A3pPIZHcbekNs5GVYeio3iVK9jiBJcSR+XoAOZUPnHLpEAwkeVYWhQd2p10qg==",
   "files": {
     "chrome": {
-      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-v2.0.17.zip",
-      "sha256": "3325bb3ca18e485c653eeb97bda5ab0194e76799af55cac5d15b76607076ddc0",
-      "sig": "KMi4yxmf3NFN2fsrlWQEui8oMOosfEszt1xdEwvhxo8befcs+RpaM6jYL2pWY3NXIuWsoPLOt/dd8oy+uU+66g=="
+      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-v2.0.18.zip",
+      "sha256": "6752e48a7926981ad8842be2ee41ead68f94d692bf5d7e1de6b7eba87b0e2a42",
+      "sig": "OsZbNtJvPLFkDRAoM74KFgASLqMIJglt2EbjWZn6DnHHluT5tNdb7MDTQGzzGNo7EFJ7rZKBlcAFjTcDSSyIZQ=="
     },
     "firefox": {
-      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-firefox-v2.0.17.zip",
-      "sha256": "3d0feb4ae9fcf106dde3518b4a7165af486db26becea46346f00c52978f28390",
-      "sig": "pUgEKG3onVDqFZYtn20Qkh1/GUzsx6ZKbBkGI0a+G+J8aD5Q1rUtnWZHfRwAQAIbNCQYRtzlPu0Uqa5WdglfZQ=="
+      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-firefox-v2.0.18.zip",
+      "sha256": "c36a9a4a93747811f52a84c1e313db40642206530ee00aab0ecdca3f82ed0cb2",
+      "sig": "9fLsl44zYEl57ogakDvnaPnXmhgr/4eT985mqzPwn5oV+nBwWqR+el23SLE6uAUVYu/9skDtsTzcEinD8AUngA=="
     }
   }
 }
