@@ -1,19 +1,19 @@
 {
-  "version": "2.0.20",
-  "published_at": "2026-11-15T09:25:53.074Z",
-  "notes": "• Som da pesca com a Twitch na tela\n• Diagnóstico mais limpo",
+  "version": "2.0.21",
+  "published_at": "2026-11-20T03:19:32.007Z",
+  "notes": "• Barco Misterioso depois da revelação\n• Lago congelado\n• Eventos com os números de 19/11",
   "important": false,
-  "sig": "POPjHo4gmmYXGgZLdU79rDObYe0X5j3X0I5VIBzZeQuPKIhSowvY2LNhIuY46+5mvRJpgkmoRWg1VnqbrUNkXw==",
+  "sig": "bJ4nYXMQIl2i0YmPobBJIme9bYv4SHBusoQkre+3AP5TAmrZn3vVxvm8T5D5N0oCFNkwODlsCtdMJDmqNG4zVA==",
   "files": {
     "chrome": {
-      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-v2.0.20.zip",
-      "sha256": "104ac08025a50db4c1f334c4a27136e8a95763b5009dbd46e14a0c1b3ecd9cf0",
-      "sig": "mdHNMCViqOsD8TLpeoC5krlObJvZHB49QRiCpds1iVmWl9ksUpYpNZukSOwHXyqzN4vtdyBtB37W1pazBH4snA=="
+      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-v2.0.21.zip",
+      "sha256": "bf792e73f89e8c1662db43e48a91e7a6505379a74a1b01038078aac748723e7a",
+      "sig": "/TNZbJXbMvqBDvuFWSrSOcdpehBUF823ltpnJFjqtjQFD1q8dSFMgGGMNWPcbmouWaoYoB6JuGit8iIcs9uqLQ=="
     },
     "firefox": {
-      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-firefox-v2.0.20.zip",
-      "sha256": "794b7383346c2e2103f849fcb5c5bda26a4bbe53b111b2c674249a165f19b6f7",
-      "sig": "6aCgqxscvyYa3VWPEhmcxRL6qLXzRWRYjcmmdx7KvdlnvmyU/0whTqOApbx18WlJgSQdZVxYyZmu8wB0GUdmkw=="
+      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-firefox-v2.0.21.zip",
+      "sha256": "bd066f019121b453b751817998ac9591bf4ddbd2b9c82958c5dafb536662e580",
+      "sig": "DBM6M2XuWPCTcZaO6yD0g/Ug7kqAayxbG5v/lVH5qq5oPDO9wjoi3rbJdNS/Z9UgP6UmCy00kzY1n2iLOth5nQ=="
     }
   }
 }
