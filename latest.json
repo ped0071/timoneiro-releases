@@ -1,19 +1,19 @@
 {
-  "version": "2.0.22",
-  "published_at": "2026-11-21T06:01:09.990Z",
-  "notes": "• Venda sem os peixes protegidos\n• Dois eventos ao mesmo tempo\n• Verificação anti-robô\n• Kraken e Julgamento de Njord com os números do Twish\n• Efeitos com as raridades certas\n• Textos do menu de comandos",
+  "version": "2.0.23",
+  "published_at": "2026-11-21T09:24:26.768Z",
+  "notes": "• Organização interna, sem mudança no uso",
   "important": false,
-  "sig": "n18pks7TWRmFObErKLy9ejqCmeBk7lJI0spD+Vk0yyYXOAkRueJ1gdA7ImsvSR1n3VQxrM/h+HnFs+tJ7ohS/g==",
+  "sig": "OwwTAm2GI4u37s1kL6XP2+NAInAnsqCQGVfsqWvBrc2nuUcPj1spXjk8G9N+3jzWBisBrj6WvfJ4hjTdgcOGbQ==",
   "files": {
     "chrome": {
-      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-v2.0.22.zip",
-      "sha256": "69fde0d787d2fbdff8bd3416a06a630a04dde162cd167146e79b4d735716fb29",
-      "sig": "vazT+bjo8mb0x1aHGchU4BGGLUesgr36jCD0Ptr/4h5kUaSzThk7Tszz/aJ56o+syOBvgEFhV3rNY79sGWebvw=="
+      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-v2.0.23.zip",
+      "sha256": "1e279a635dccc22e08bf9cae12cf02682eab6e00ea7c1359df1a0f630a6306cd",
+      "sig": "PVt4xa2jjlCX5wMwTogNByfD1bcroyxriLK9jA7DfY+AU/F8+3vyfrnmWJw32+tIiRm8fH6YAemW0zkY+R5Agg=="
     },
     "firefox": {
-      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-firefox-v2.0.22.zip",
-      "sha256": "041aa5922a91d211cb87473db3ddc0a38f531b3137cdee431d2254962ebeaa04",
-      "sig": "ONZBlqYQUg6yBuRqphuAPNPVv6Ng+KdgC46eJwYuBxZuW7ZBs2NVrh5rfZqKyTHuNgv88t6YGzLH0EsJm3VT+w=="
+      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-firefox-v2.0.23.zip",
+      "sha256": "e2b7864109d15742c8448fd0d5fdb5cc59c29e29fe1e2b4508e45c5658194471",
+      "sig": "k24rUyOOFj7ae5zaZFMcXt1KJxTEBl73XtJiaql1qXf3BC9XcKHmrgS/8jN7gtEspibdKIul306zZJJiqkuJWQ=="
     }
   }
 }
