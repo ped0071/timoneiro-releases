@@ -1,19 +1,19 @@
 {
-  "version": "2.0.23",
-  "published_at": "2026-11-21T09:24:26.768Z",
-  "notes": "• Organização interna, sem mudança no uso",
+  "version": "2.0.24",
+  "published_at": "2026-11-23T00:11:11.730Z",
+  "notes": "• Comprador do Porto com a quantidade certa",
   "important": false,
-  "sig": "OwwTAm2GI4u37s1kL6XP2+NAInAnsqCQGVfsqWvBrc2nuUcPj1spXjk8G9N+3jzWBisBrj6WvfJ4hjTdgcOGbQ==",
+  "sig": "qI9u4Od/hwE3EtALbz43+3XKtn4fe0OLiFC0SOKzB4BBDrCkbsX1Kevp+R2EfwbN/ksJw+8HsMFd+ZQMnxPi4w==",
   "files": {
     "chrome": {
-      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-v2.0.23.zip",
-      "sha256": "1e279a635dccc22e08bf9cae12cf02682eab6e00ea7c1359df1a0f630a6306cd",
-      "sig": "PVt4xa2jjlCX5wMwTogNByfD1bcroyxriLK9jA7DfY+AU/F8+3vyfrnmWJw32+tIiRm8fH6YAemW0zkY+R5Agg=="
+      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-v2.0.24.zip",
+      "sha256": "e425210eda05a89d8bea68ef2b45ef3034c5e5a148f127dcd671642b7faf248d",
+      "sig": "kAjnOny865gp2dJyiP03YpS8mjMoQuBtLDx4ghFF91gDZjKP9mwcD2Lj7vhHfJU5H8zhM7lDk4DSsUmGqkUdZQ=="
     },
     "firefox": {
-      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-firefox-v2.0.23.zip",
-      "sha256": "e2b7864109d15742c8448fd0d5fdb5cc59c29e29fe1e2b4508e45c5658194471",
-      "sig": "k24rUyOOFj7ae5zaZFMcXt1KJxTEBl73XtJiaql1qXf3BC9XcKHmrgS/8jN7gtEspibdKIul306zZJJiqkuJWQ=="
+      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-firefox-v2.0.24.zip",
+      "sha256": "94850756133fb4e0512ef761a36e6dc0e0fbd1d581e8a0b2bc50873a5cd80bf9",
+      "sig": "bmOoqNfHHB2z/4lsPqTJSuR7JGWGDwuQ+hN2KLY7uh7uvsc4lR4apQPgxCzlYrl4nLEQd0nQm7N91UNfjxQbtg=="
     }
   }
 }
