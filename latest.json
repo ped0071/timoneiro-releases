@@ -1,19 +1,19 @@
 {
-  "version": "2.3.0",
-  "published_at": "2026-11-26T06:38:51.088Z",
-  "notes": "• Tridente de Poseidon no Guia",
+  "version": "2.4.0",
+  "published_at": "2026-11-26T13:01:14.741Z",
+  "notes": "• Atalhos pelo teclado\n• Restaurar um backup pede confirmação\n• Menu\n• Guia sem mouse\n• Botões do menu",
   "important": false,
-  "sig": "h+QjbYf7ORUx/OM+5BJ/fOs5pam+0US8E/4W6tP2KhF+9j00OuXGhTST7y3JRdi0OhYc9F8vHhQ5svs+oyX7fg==",
+  "sig": "4w6l0nimoJOYZp4eguaZQgF8HI/cqNqY1Ofws8UNC/qgwJeapQCE4k9Z6Osvr1IbLNQ++y66MUcu5JWtIJjRJw==",
   "files": {
     "chrome": {
-      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-v2.3.0.zip",
-      "sha256": "9901deda7592b00de2e816a4e88c83640f3cb57b71ddb9ac4d0393b286e109f7",
-      "sig": "NRQgPXA98ZkvEgHYN/v2UuF/Qa8pE7Bj2zHdG8utVGAIGGA0ujPlNHs3skRJ33HIDdo+9LhWUm63JDaiGVm0Rw=="
+      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-v2.4.0.zip",
+      "sha256": "0ff258d609582eb55cdfe9e45adc4d2bfb84284e6c4f8492cd2bb7b23b3bddeb",
+      "sig": "zmzuTZ2neeS4wtpFYkUhMNwwsUpjeaXnQ6TLiUnpFnojCofSKR/MSCVyLHWGV3QX5SfqIHGuZix3Yfw9LTGcAw=="
     },
     "firefox": {
-      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-firefox-v2.3.0.zip",
-      "sha256": "3d4a73fdbfb4a354c2f26db39efadb7b586826fc7821fd8c5596cfab16bda471",
-      "sig": "g5MddFsFJmvggB0ODgLkV2H8DwipYL7lxwZ0Qr7HXA4jQ/65qMo0lTxOssICaghvEkf87Vm7SK+oZ7wUV2pyoA=="
+      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-firefox-v2.4.0.zip",
+      "sha256": "0c8366122ed6143193fa926148dbf4f5ec15d70e86350827e2ec49731ab300a4",
+      "sig": "uXdT9IR7SUmTjZlAhSDEAvd+QRQWbmol8l3q44Z49yETOlLv0Yoz1hEkgehPFDvOLAlACE16fyKJa4h1VUeVVg=="
     }
   }
 }

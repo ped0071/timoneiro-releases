@@ -33,7 +33,7 @@ button, .btn {
 }
 button:hover, .btn:hover { border-color: var(--lilas); }
 .btn-primary { background: var(--ametista); border-color: var(--ametista); color: #fff; }
-.btn-primary:hover { background: #8d55ff; border-color: #8d55ff; }
+.btn-primary:hover { background: #6a2ff0; border-color: var(--lilas); }
 button:disabled { opacity: .55; cursor: default; }
 :focus-visible { outline: 2px solid var(--ciano); outline-offset: 2px; }
 input[type="text"], input[type="url"] {
