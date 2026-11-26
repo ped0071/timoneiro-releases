@@ -1,19 +1,19 @@
 {
-  "version": "2.0.24",
-  "published_at": "2026-11-23T00:11:11.730Z",
-  "notes": "• Comprador do Porto com a quantidade certa",
+  "version": "2.1.0",
+  "published_at": "2026-11-26T05:30:38.072Z",
+  "notes": "• Comprador do Porto lembra do que você já vendeu\n• Leitura mais rápida durante o Comprador do Porto\n• Espécies pedidas",
   "important": false,
-  "sig": "qI9u4Od/hwE3EtALbz43+3XKtn4fe0OLiFC0SOKzB4BBDrCkbsX1Kevp+R2EfwbN/ksJw+8HsMFd+ZQMnxPi4w==",
+  "sig": "30+3uJfBGqNTg+0+f+jAqZyoDo2ILK1xiIh+BuEthwWTt2iDuD6Ihn3glBwF3oMiR6W5SoG8JOX0j+j7VLcaBw==",
   "files": {
     "chrome": {
-      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-v2.0.24.zip",
-      "sha256": "e425210eda05a89d8bea68ef2b45ef3034c5e5a148f127dcd671642b7faf248d",
-      "sig": "kAjnOny865gp2dJyiP03YpS8mjMoQuBtLDx4ghFF91gDZjKP9mwcD2Lj7vhHfJU5H8zhM7lDk4DSsUmGqkUdZQ=="
+      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-v2.1.0.zip",
+      "sha256": "f2675e1d0de9f962856a1d906362716e1ac72ad9a75192b19303c285d7234865",
+      "sig": "P9+UpcyF3kiX0dgsdS+PgsQS4CtkLUJDVcSeD1WfNCBGyU6V7KGjqFZLzEA65MKp79ZlLKmHEY/dXC1PDYCvAg=="
     },
     "firefox": {
-      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-firefox-v2.0.24.zip",
-      "sha256": "94850756133fb4e0512ef761a36e6dc0e0fbd1d581e8a0b2bc50873a5cd80bf9",
-      "sig": "bmOoqNfHHB2z/4lsPqTJSuR7JGWGDwuQ+hN2KLY7uh7uvsc4lR4apQPgxCzlYrl4nLEQd0nQm7N91UNfjxQbtg=="
+      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-firefox-v2.1.0.zip",
+      "sha256": "7e988899eb17f72b224087dfd3d2bf3967aa18d115ace2abb64e1fc86d21f797",
+      "sig": "TxrRE0gE/Rj/7Bm+7lG/tz/qWgFWSuwUoF0r4SDkKbw9MfKaGRoQZmFrSk2G8Rp8rLPjDygFUK8EbsCEiEZzuA=="
     }
   }
 }
