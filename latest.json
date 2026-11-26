@@ -1,19 +1,19 @@
 {
-  "version": "2.2.0",
-  "published_at": "2026-11-26T05:44:32.548Z",
-  "notes": "• Efeitos ativos da viagem\n• Prazo das missões\n• Sala da Frota em tempo real\n• Frota",
+  "version": "2.3.0",
+  "published_at": "2026-11-26T06:38:51.088Z",
+  "notes": "• Tridente de Poseidon no Guia",
   "important": false,
-  "sig": "7waEiZnnIfYQugHRWtzoH6IbMtsnr5OM8KqOS0MWrN7uctXltq+M0HHYg8e1PLAdS1kw4E5reFYEKh+r9iB3AQ==",
+  "sig": "h+QjbYf7ORUx/OM+5BJ/fOs5pam+0US8E/4W6tP2KhF+9j00OuXGhTST7y3JRdi0OhYc9F8vHhQ5svs+oyX7fg==",
   "files": {
     "chrome": {
-      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-v2.2.0.zip",
-      "sha256": "8e2989b53f4b4b9b68017ab305ef359758ecf4f384ccbe3c32a28391de5e9907",
-      "sig": "v1JfTfyPwweHzNSat63I6PvI9YE+/2ma95m520BqnzZaxBP5I1Ewl4dTC8jMNBAjiRdmvaZdAwUNAgmON3Uk7Q=="
+      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-v2.3.0.zip",
+      "sha256": "9901deda7592b00de2e816a4e88c83640f3cb57b71ddb9ac4d0393b286e109f7",
+      "sig": "NRQgPXA98ZkvEgHYN/v2UuF/Qa8pE7Bj2zHdG8utVGAIGGA0ujPlNHs3skRJ33HIDdo+9LhWUm63JDaiGVm0Rw=="
     },
     "firefox": {
-      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-firefox-v2.2.0.zip",
-      "sha256": "04f18bb5001e61ad8b61bd71bec40b428fd285c17d2e5ebff31114ee2a8fa6c6",
-      "sig": "qKEcjz0AUOy1nYyTaaDwSJIg2esxHJS91CbvNHF3/eZtaZ/NE5MeH3APtnACnDwRKYFUdNIzBl1xke87SNpAyQ=="
+      "url": "https://ped0071.github.io/timoneiro-releases/timoneiro-firefox-v2.3.0.zip",
+      "sha256": "3d4a73fdbfb4a354c2f26db39efadb7b586826fc7821fd8c5596cfab16bda471",
+      "sig": "g5MddFsFJmvggB0ODgLkV2H8DwipYL7lxwZ0Qr7HXA4jQ/65qMo0lTxOssICaghvEkf87Vm7SK+oZ7wUV2pyoA=="
     }
   }
 }
